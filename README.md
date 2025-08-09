@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bjon123/Bjon123/main/profile.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
+  <img src="https://i.imgur.com/B3vMiBu.jpeg" alt="Profile Picture" width="200" style="border-radius: 50%;">
 </p>
 
 <!-- Banner -->

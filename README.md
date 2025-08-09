@@ -20,11 +20,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bjon123&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjon123&layout=compact&theme=tokyonight)
-
----
-
 <!-- Footer Banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:00f2fe,100:4facfe&height=150&section=footer)
